@@ -2,7 +2,7 @@
 
 # Narrative ambiguity and perspective-taking
 
-Data and R code accompanying *Reduced narrative ambiguity amplifies the neural idiosyncrasy of mentalizing for sophisticated perspective-takers* by Yu Zhang, Bing Wu, and Yi Liu.
+Data and R code accompanying *Reduced narrative ambiguity amplifies the neural idiosyncrasy of mentalizing for sophisticated perspective-takers* by Yu Zhang, Chao Ma, Haiming Li, Yi Yin, Bing Wu, and Yi Liu.
 
 The shared files support statistical analyses of inter-subject dissimilarity in functional connectivity, strength centrality and eye-gaze trajectories, and inter-subject similarity of reactivation patterns. 
 
